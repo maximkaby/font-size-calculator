@@ -4,6 +4,8 @@ A calculator that checks whether your terminal font size is big enough for your 
 
 The site is available in three languages: English (`/`), Russian (`/ru`) and Polish (`/pl`).
 
+![Terminal Font Size calculator](docs/screenshot.png)
+
 ## Getting started
 
 ```bash
